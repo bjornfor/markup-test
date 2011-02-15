@@ -1,0 +1,22 @@
+Remote debugging with Eclipse CDT and GDB
+=========================================
+Bjørn Forsman <bjorn.forsman@creodev.no>
+
+
+Get Eclipse from here:
+
+  http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/heliossr1
+
+This is CDT 7.0.1 for Eclipse Helios (a bundle with Eclipse + CDT)
+
+Select Linux 32-bit and downloaded a tar.gz file.
+
+direct link to tarball:
+
+  http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/helios/SR1/eclipse-cpp-helios-SR1-linux-gtk.tar.gz&url=ftp://ftp.uninett.no/pub/eclipse/technology/epp/downloads/release/helios/SR1/eclipse-cpp-helios-SR1-linux-gtk.tar.gz&mirror_id=303
+
+Extract and run.
+
+Great tutorial for using Eclipse with gdbserver:
+
+  http://embedded-linux.co.uk/tutorial/eclipse-cross-compile
