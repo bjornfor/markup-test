@@ -1,0 +1,21 @@
+README
+======
+
+Testing some Asciidoc markup for Github.
+
+* item
+* item
+
+Some *bold text* and +monospaced text+.
+
+Listing block:
+
+----
+whoami
+uname -r
+----
+
+
+******
+sidebar block
+******
